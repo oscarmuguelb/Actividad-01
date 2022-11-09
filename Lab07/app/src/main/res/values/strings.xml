@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Lab07</string>
+    <string name="titulo">Mail Schedule Pickup</string>
+    <string name="name">Name:</string>
+    <string name="addres">Address:</string>
+    <string name="city">City:</string>
+    <string name="province">Province(state):</string>
+    <string name="postal">Postal(Zip) Code:</string>
+    <string name="country">Country:</string>
+    <string name="schedule">Schedule</string>
+    <string name="accept">ACCEPT</string>
+    <string name="edit">EDIT</string>
+</resources>
